@@ -1,0 +1,14 @@
+name: ds
+dependencies:
+  - numpy
+  - pandas
+  - matplotlib
+  - pandas
+  - scipy
+  - seaborn
+  - scikit-learn
+  - tensorflow
+  - keras
+  - statsmodels
+  - plotly
+  - jupyter
