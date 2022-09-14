@@ -20,6 +20,8 @@ Será criado o ambiente 'ds' com os seguintes pacotes:
  - statsmodels
  - plotly
  - jupyter
+ - jupyterlab
+ - ipympl
 
 Para ativar o ambiente 'ds', digite:
 
@@ -33,3 +35,4 @@ $ conda list
 Ative o ambinente e digite:
 
 $ pip install opencv-python
+
