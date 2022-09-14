@@ -12,3 +12,5 @@ dependencies:
   - statsmodels
   - plotly
   - jupyter
+  - jupyterlab
+  - ipympl
