@@ -37,12 +37,13 @@ Ative o ambinente e digite:
 
 $ pip install opencv-python
 
-3) Configurar o jupyter-notebook para opção auto-completion no code editor
+3) Configurar o jupyterlab jupyter-notebook para opção auto-completion no code editor
 
 No ambiente 'ds' digite:
 
 $ pip install jupyter_contrib_nbextensions
 $ jupyter contrib nbextension install
+$ pip install jupyterlab_widgets
 
 Abra o jupyter-notebook e na aba 'nbextensions' habilitar a opção 'Hinterland'
 fonte: https://towardsdatascience.com/the-only-auto-completion-extension-youll-ever-need-for-your-jupyter-notebooks-87bbaecb7126 (acessado em 14/09/2022)
