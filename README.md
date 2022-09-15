@@ -47,6 +47,9 @@ $ jupyter contrib nbextension install
 Abra o jupyter-notebook e na aba 'nbextensions' habilitar a opção 'Hinterland'
 fonte: https://towardsdatascience.com/the-only-auto-completion-extension-youll-ever-need-for-your-jupyter-notebooks-87bbaecb7126 (acessado em 14/09/2022)
 
+Instale também o nodejs
+
+$ conda install -c conda-forge nodejs
 
 4) Configuração do git e github
 
